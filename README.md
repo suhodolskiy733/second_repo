@@ -4,3 +4,4 @@ Added objectives of the project
 Added usage instructions
 Updated project description
 Added new instructions for the feature
+Updated README with new-feature instructions
